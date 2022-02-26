@@ -2,6 +2,7 @@
  * @param {number[]} nums
  * @param {number} target
  * @return {number}
+ assuming that nums is sorted
  */
 var search = function(nums, target) {
     
